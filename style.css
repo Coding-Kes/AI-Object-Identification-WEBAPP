@@ -1,0 +1,43 @@
+
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 27px;
+    width: 100%;
+    margin: 0px;
+}
+
+#object_number , #start
+{
+    font-size: 21px;
+}
+
+#footer
+{
+    position: fixed;
+    color: #FFD700;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border-radius: 10px;
+    border: 4px dashed goldenrod;
+    margin-top: 130px;
+    box-shadow: 7px 7px 7px rgb(251, 108, 12);
+}
+
+input
+{
+    border-radius: 15px;
+    font-size: 24px;
+    border: solid 11px;
+}
